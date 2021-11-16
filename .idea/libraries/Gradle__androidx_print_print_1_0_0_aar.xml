@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.print:print:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/7ddca4cccdb0712197a5639cf6598882/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/7ddca4cccdb0712197a5639cf6598882/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/7ddca4cccdb0712197a5639cf6598882/res" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/7ddca4cccdb0712197a5639cf6598882/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

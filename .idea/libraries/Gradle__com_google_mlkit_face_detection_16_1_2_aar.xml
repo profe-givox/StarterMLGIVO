@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:face-detection:16.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/48b5f83131bb87b56006acff5d26440c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/48b5f83131bb87b56006acff5d26440c/res" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/48b5f83131bb87b56006acff5d26440c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

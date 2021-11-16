@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/24ec577c0681ec1dc0a0172344080b89/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/24ec577c0681ec1dc0a0172344080b89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/24ec577c0681ec1dc0a0172344080b89/res" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/24ec577c0681ec1dc0a0172344080b89/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

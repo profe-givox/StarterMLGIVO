@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/88762d0ff3998126daec4a62b25bc8fd/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/88762d0ff3998126daec4a62b25bc8fd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/88762d0ff3998126daec4a62b25bc8fd/res" />
+      <root url="file://$USER_HOME$/Code/java/programacionfuncional/verano/job-search-configuracion-inicial-gradle/caches/transforms-2/files-2.1/88762d0ff3998126daec4a62b25bc8fd/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
